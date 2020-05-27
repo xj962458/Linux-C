@@ -1,0 +1,1 @@
+import matplotlib.pyplot as pltimport numpy as np#不同种类不同颜色的线x=np.linspace(1,2*np.pi)y1=np.sin(x)y2=np.cos(x)plt.legend()plt.xlabel('自变量')plt.ylabel('因变量')plt.plot(x,y1,x,y2)plt.show()

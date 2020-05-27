@@ -1,0 +1,1 @@
+import matplotlib.pyplot as pltimport numpy as np#画散点图x=np.linspace(0,10,100)#生成0到10中100个等差数plt.scatter(x,np.sin(x))plt.show()

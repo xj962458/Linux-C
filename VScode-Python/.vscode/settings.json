@@ -1,0 +1,7 @@
+{
+    "python.pythonPath": "C:\\Users\\xjfyt\\AppData\\Local\\Programs\\Python\\Python38\\python.exe",
+    "cSpell.words": [
+        "sympy"
+    ],
+    "python.formatting.provider": "autopep8"
+}

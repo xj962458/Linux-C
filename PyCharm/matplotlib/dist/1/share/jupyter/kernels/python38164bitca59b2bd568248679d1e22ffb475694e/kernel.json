@@ -1,0 +1,39 @@
+{
+  "argv": [
+    "C:\\Users\\xjfyt\\AppData\\Local\\Programs\\Python\\Python38\\python.exe",
+    "-m",
+    "ipykernel_launcher",
+    "-f",
+    "{connection_file}"
+  ],
+  "display_name": "Python 3.8.1 64-bit",
+  "language": "python",
+  "env": {},
+  "metadata": {
+    "interpreter": {
+      "architecture": 3,
+      "path": "C:\\Users\\xjfyt\\AppData\\Local\\Programs\\Python\\Python38\\python.exe",
+      "version": {
+        "options": {
+          "loose": false,
+          "includePrerelease": false
+        },
+        "loose": false,
+        "raw": "3.8.1-final",
+        "major": 3,
+        "minor": 8,
+        "patch": 1,
+        "prerelease": [
+          "final"
+        ],
+        "build": [],
+        "version": "3.8.1-final"
+      },
+      "sysPrefix": "C:\\Users\\xjfyt\\AppData\\Local\\Programs\\Python\\Python38",
+      "fileHash": "fc697af69ae0d3027b35d567c83e525792237542dc01576bd613526856a1ddb8270156ec08393a661a6ea7a2379e154f3f188c63d08f9adbb22bcfd96fe47ad0",
+      "companyDisplayName": "Python Software Foundation",
+      "type": "Unknown",
+      "displayName": "Python 3.8.1 64-bit"
+    }
+  }
+}

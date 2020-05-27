@@ -1,0 +1,1 @@
+import matplotlib.pyplot as plt#200个点的x坐标x=range(-100,100)#生成y点的坐标y=[i**2 for i in x ]#绘制一元二次曲线plt.plot(x,y)#调用savefig将一元二次曲线保存为result.jpgplt.savefig('result.jpg') #如果直接写成 plt.savefig('cos') 会生成cos.pngplt.show()

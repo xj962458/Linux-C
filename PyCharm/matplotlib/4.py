@@ -1,0 +1,1 @@
+import matplotlib.pyplot as pltimport numpy as np#生成x的坐标（0-10的100个等差数列）x=np.linspace(0,10,100)sin_y=np.sin(x)#绘制正弦曲线plt.plot(x,sin_y)#绘制余弦曲线cos_y=np.cos(x)plt.plot(x,cos_y)plt.show()

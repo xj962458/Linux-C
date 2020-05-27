@@ -1,0 +1,1 @@
+import matplotlib.pyplot as pltimport numpy as np#将画布分为区域，将图画到画布的指定区域x=np.linspace(1,10,100)#将画布分为2行2列，将图画到画布的1区域plt.subplot(2,2,1)plt.plot(x,np.sin(x))plt.subplot(2,2,3)plt.plot(x,np.cos(x))plt.show()

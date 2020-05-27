@@ -1,0 +1,1 @@
+import matplotlib.pyplot as pltdatas=[1,2,3,4,5]squares=[1,4,9,16,25]plt.plot(datas,squares,linewidth=5) #设置线条宽度#设置图标标题，并在坐标轴上添加标签plt.title('Numbers',fontsize=24)plt.xlabel('datas',fontsize=14)plt.ylabel('squares',fontsize=14)plt.show()

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="34fb5385-a7ed-454d-a32c-1d47c80d0245" name="默认更改列表" comment="">
+      <change afterPath="$PROJECT_DIR$/../PyCharm/Xj1/Xj/Xj1/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PyCharm/Xj1/Xj/Xj1/xj2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PyCharm/Xj1/Xj/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PyCharm/Xj1/Xj/xj1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PyCharm/Xj1/基础语法/xj/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/xj.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/xj.ipynb" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1YWArSrxQDBq0wmtWxv1y2hceaw" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="34fb5385-a7ed-454d-a32c-1d47c80d0245" name="默认更改列表" comment="" />
+      <created>1583048174971</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1583048174971</updated>
+      <workItem from="1583048177581" duration="1000" />
+      <workItem from="1583200861139" duration="97000" />
+      <workItem from="1583221609513" duration="282000" />
+      <workItem from="1584105093919" duration="51000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+</project>

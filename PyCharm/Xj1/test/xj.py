@@ -1,0 +1,1 @@
+import numpy as np#这里是矩阵的加法ar1=np.arange(10).reshape(10,1)ar2=np.arange(10).reshape(10,1)print(ar1)print('\n')print(ar2)

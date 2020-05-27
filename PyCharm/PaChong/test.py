@@ -1,0 +1,1 @@
+import requestsr=requests.get('https://www.runoob.com/?name=germey&age=22')print(r.text)
