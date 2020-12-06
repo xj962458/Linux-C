@@ -1,33 +1,447 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AnalysisUIOptions">
+    <option name="SCOPE_TYPE" value="3" />
+  </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="34fb5385-a7ed-454d-a32c-1d47c80d0245" name="默认更改列表" comment="">
-      <change afterPath="$PROJECT_DIR$/../PyCharm/Xj1/Xj/Xj1/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PyCharm/Xj1/Xj/Xj1/xj2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PyCharm/Xj1/Xj/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PyCharm/Xj1/Xj/xj1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PyCharm/Xj1/基础语法/xj/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/xj.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/xj.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dictionaries/xjfyt.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/other.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Test/1.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Test/2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Test/21212.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Test/3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Test/4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Test/5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Test/6.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Test/7.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Test/8.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Test/data.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Test/data_asc.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Test/hamlet.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Test/test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Test/test.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Test/test副本.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Test/三国演义.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PyCharm/Xj1/others/tempCodeRunnerFile.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PyCharm/Xj1/others/x.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PyCharm/Xj1/others/xj.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PyCharm/Xj1/others/圣诞树.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PyCharm/Xj1/others/批量安装第三方库.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PyCharm/Xj1/others/樱花,暗色效果.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PyCharm/Xj1/others/樱花.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PyCharm/Xj1/others/樱花，飘落效果.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PyCharm/Xj1/others/玫瑰花.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PyCharm/Xj1/test/tempCodeRunnerFile.py" beforeDir="false" afterPath="$PROJECT_DIR$/../PyCharm/Xj1/test/tempCodeRunnerFile.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PyCharm/Xj1/test/test3.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PyCharm/Xj1/test/test5.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PythonVS/PythonApplication1/.vs/PythonApplication1/v16/.suo" beforeDir="false" afterPath="$PROJECT_DIR$/../PythonVS/PythonApplication1/.vs/PythonApplication1/v16/.suo" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PythonVS/PythonApplication1/PythonApplication1.py" beforeDir="false" afterPath="$PROJECT_DIR$/../PythonVS/PythonApplication1/PythonApplication1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PythonVS/PythonApplication1/PythonApplication1.pyproj" beforeDir="false" afterPath="$PROJECT_DIR$/../PythonVS/PythonApplication1/PythonApplication1.pyproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/VScode-Python.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/VScode-Python.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.vscode/settings.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/作业/Test.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/作业/实验一.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/作业/实验三.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/作业/实验二.ipynb" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FlaskConsoleOptions" custom-start-script="import sys&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;from flask.cli import ScriptInfo&#10;locals().update(ScriptInfo(create_app=None).load_app().make_shell_context())&#10;print(&quot;Python %s on %s\nApp: %s [%s]\nInstance: %s&quot; % (sys.version, sys.platform, app.import_name, app.env, app.instance_path))">
+    <envs>
+      <env key="FLASK_APP" value="app" />
+    </envs>
+    <option name="myCustomStartScript" value="import sys&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;from flask.cli import ScriptInfo&#10;locals().update(ScriptInfo(create_app=None).load_app().make_shell_context())&#10;print(&quot;Python %s on %s\nApp: %s [%s]\nInstance: %s&quot; % (sys.version, sys.platform, app.import_name, app.env, app.instance_path))" />
+    <option name="myEnvs">
+      <map>
+        <entry key="FLASK_APP" value="app" />
+      </map>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
+  <component name="JupyterTrust" id="97dd2b42-48ee-41b5-8af3-76a07e664048" />
   <component name="ProjectId" id="1YWArSrxQDBq0wmtWxv1y2hceaw" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="新增" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
-    <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="DatabaseDriversLRU" value="sqlite" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../PyCharm" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
+  <component name="RunManager" selected="Python.test3">
+    <configuration name="console.sql" type="DatabaseScript" editBeforeRun="true" temporary="true" nameIsGenerated="true">
+      <script-file value="$APPLICATION_CONFIG_DIR$/consoles/db/2b741093-3bf8-484b-ba7a-b74860a08a9d/console.sql" />
+      <script-mode>FILE</script-mode>
+      <method v="2" />
+    </configuration>
+    <configuration name="亚马逊爬虫" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="VScode-Python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/作业" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/作业/亚马逊爬虫.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="中国大学排名2020" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="VScode-Python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/作业" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/作业/中国大学排名2020.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Sqlite" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="VScode-Python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/作业" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/作业/Sqlite.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="豆瓣影评抓取" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="VScode-Python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/作业" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/作业/豆瓣影评抓取.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="亚马逊爬虫" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="VScode-Python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/作业" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/作业/亚马逊爬虫.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="爬取中国诗歌网" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="VScode-Python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/作业" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/作业/爬取中国诗歌网.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="百度关键字提交" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="VScode-Python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/作业" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/作业/百度关键字提交.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="豆瓣" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="VScode-Python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/作业" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/作业/豆瓣.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="豆瓣爬虫" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="VScode-Python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/作业" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="D:\MyFile\Desktop\Python\Code\VScode-Python\作业\豆瓣爬虫.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="爬取中国诗歌网" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="VScode-Python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/作业" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="D:\MyFile\Desktop\Python\Code\VScode-Python\作业\爬取中国诗歌网.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="豆瓣影评抓取" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="VScode-Python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/作业" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/作业/豆瓣影评抓取.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="美团爬取链接爬虫" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="VScode-Python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/作业" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/作业/美团爬取链接爬虫.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="豆瓣电影排名及图片爬取" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="VScode-Python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/作业" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/作业/豆瓣电影排名及图片爬取.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test3" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="VScode-Python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/作业" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/作业/test3.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.test3" />
+        <item itemvalue="Python.亚马逊爬虫" />
+        <item itemvalue="Python.中国大学排名2020" />
+        <item itemvalue="数据库脚本.console.sql" />
+        <item itemvalue="Python.Sqlite" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -42,10 +456,158 @@
       <workItem from="1583200861139" duration="97000" />
       <workItem from="1583221609513" duration="282000" />
       <workItem from="1584105093919" duration="51000" />
+      <workItem from="1605498623206" duration="3000" />
+      <workItem from="1605702036338" duration="1687000" />
+      <workItem from="1605703769390" duration="1727000" />
+      <workItem from="1605705633252" duration="451000" />
+      <workItem from="1605706099395" duration="760000" />
+      <workItem from="1605707174725" duration="226000" />
+      <workItem from="1605712675801" duration="818000" />
+      <workItem from="1605713590732" duration="391000" />
+      <workItem from="1605714019319" duration="479000" />
+      <workItem from="1605714517412" duration="700000" />
+      <workItem from="1606034488977" duration="1065000" />
+      <workItem from="1606213432652" duration="137000" />
+      <workItem from="1606218459335" duration="1796000" />
+      <workItem from="1606618127357" duration="269000" />
+      <workItem from="1606618426648" duration="1199000" />
+      <workItem from="1606723348598" duration="7722000" />
+      <workItem from="1606801956453" duration="1235000" />
+      <workItem from="1606811802045" duration="1833000" />
+      <workItem from="1606813663137" duration="11502000" />
+      <workItem from="1606892592964" duration="531000" />
+      <workItem from="1606904765650" duration="7745000" />
+      <workItem from="1606916814383" duration="1100000" />
+      <workItem from="1607005476306" duration="1205000" />
+      <workItem from="1607007720139" duration="177000" />
+      <workItem from="1607062608216" duration="1961000" />
+      <workItem from="1607244103940" duration="32000" />
+      <workItem from="1607244201493" duration="22000" />
+      <workItem from="1607244253649" duration="29000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="1" />
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="514" y="156" width="526" height="564" key="#Docker" timestamp="1605703353514">
+      <screen x="0" y="0" width="1463" height="874" />
+    </state>
+    <state x="514" y="156" width="526" height="564" key="#Docker/0.0.1463.874@0.0.1463.874" timestamp="1605703353514" />
+    <state x="484" y="257" key="#Notifications" timestamp="1605714074371">
+      <screen x="0" y="0" width="1463" height="874" />
+    </state>
+    <state x="484" y="257" key="#Notifications/0.0.1463.874@0.0.1463.874" timestamp="1605714074371" />
+    <state x="302" y="271" key="#SQL_方言" timestamp="1607006158785">
+      <screen x="0" y="0" width="1463" height="874" />
+    </state>
+    <state x="302" y="271" key="#SQL_方言/0.0.1463.874@0.0.1463.874" timestamp="1607006158785" />
+    <state x="324" y="95" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1607006205688">
+      <screen x="0" y="0" width="1463" height="874" />
+    </state>
+    <state x="324" y="95" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1463.874@0.0.1463.874" timestamp="1607006205688" />
+    <state x="462" y="183" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1607064487284">
+      <screen x="0" y="0" width="1463" height="874" />
+    </state>
+    <state x="462" y="183" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1463.874@0.0.1463.874" timestamp="1607064487284" />
+    <state x="779" y="234" key="#com.intellij.tools.ToolEditorDialog" timestamp="1606892963488">
+      <screen x="0" y="0" width="1463" height="874" />
+    </state>
+    <state x="779" y="234" key="#com.intellij.tools.ToolEditorDialog/0.0.1463.874@0.0.1463.874" timestamp="1606892963488" />
+    <state x="642" y="349" key="#路径映射" timestamp="1605703332387">
+      <screen x="0" y="0" width="1463" height="874" />
+    </state>
+    <state x="642" y="349" key="#路径映射/0.0.1463.874@0.0.1463.874" timestamp="1605703332387" />
+    <state x="481" y="270" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1606811928379">
+      <screen x="0" y="0" width="1463" height="874" />
+    </state>
+    <state x="481" y="270" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.1463.874@0.0.1463.874" timestamp="1606811928379" />
+    <state x="513" y="193" key="FileChooserDialogImpl" timestamp="1607244279985">
+      <screen x="0" y="0" width="1463" height="874" />
+    </state>
+    <state x="513" y="193" key="FileChooserDialogImpl/0.0.1463.874@0.0.1463.874" timestamp="1607244279985" />
+    <state width="687" height="77" key="GridCell.Tab.0.bottom" timestamp="1607064589530">
+      <screen x="0" y="0" width="1463" height="874" />
+    </state>
+    <state width="687" height="77" key="GridCell.Tab.0.bottom/0.0.1463.874@0.0.1463.874" timestamp="1607064589530" />
+    <state width="687" height="77" key="GridCell.Tab.0.center" timestamp="1607064589530">
+      <screen x="0" y="0" width="1463" height="874" />
+    </state>
+    <state width="687" height="77" key="GridCell.Tab.0.center/0.0.1463.874@0.0.1463.874" timestamp="1607064589530" />
+    <state width="687" height="77" key="GridCell.Tab.0.left" timestamp="1607064589530">
+      <screen x="0" y="0" width="1463" height="874" />
+    </state>
+    <state width="687" height="77" key="GridCell.Tab.0.left/0.0.1463.874@0.0.1463.874" timestamp="1607064589530" />
+    <state width="687" height="77" key="GridCell.Tab.0.right" timestamp="1607064589530">
+      <screen x="0" y="0" width="1463" height="874" />
+    </state>
+    <state width="687" height="77" key="GridCell.Tab.0.right/0.0.1463.874@0.0.1463.874" timestamp="1607064589530" />
+    <state width="151" height="540" key="HiddenNamespacesPopup" timestamp="1607006243745">
+      <screen x="0" y="0" width="1463" height="874" />
+    </state>
+    <state width="151" height="540" key="HiddenNamespacesPopup/0.0.1463.874@0.0.1463.874" timestamp="1607006243745" />
+    <state x="414" y="53" key="SettingsEditor" timestamp="1607063499249">
+      <screen x="0" y="0" width="1463" height="874" />
+    </state>
+    <state x="414" y="53" key="SettingsEditor/0.0.1463.874@0.0.1463.874" timestamp="1607063499249" />
+    <state x="310" y="35" key="Vcs.Push.Dialog.v2" timestamp="1606911466713">
+      <screen x="0" y="0" width="1463" height="874" />
+    </state>
+    <state x="310" y="35" key="Vcs.Push.Dialog.v2/0.0.1463.874@0.0.1463.874" timestamp="1606911466713" />
+    <state x="-86" y="115" width="1434" height="856" key="dock-window-1" timestamp="1605713985245">
+      <screen x="0" y="0" width="1463" height="874" />
+    </state>
+    <state x="-86" y="115" width="1434" height="856" key="dock-window-1/0.0.1463.874@0.0.1463.874" timestamp="1605713985245" />
+    <state x="312" y="92" key="editAsTableFormatDialogDimension" timestamp="1606812518407">
+      <screen x="0" y="0" width="1463" height="874" />
+    </state>
+    <state x="312" y="92" key="editAsTableFormatDialogDimension/0.0.1463.874@0.0.1463.874" timestamp="1606812518407" />
+    <state x="394" y="183" width="672" height="678" key="search.everywhere.popup" timestamp="1606907222373">
+      <screen x="0" y="0" width="1463" height="874" />
+    </state>
+    <state x="394" y="183" width="672" height="678" key="search.everywhere.popup/0.0.1463.874@0.0.1463.874" timestamp="1606907222373" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/作业/豆瓣.py</url>
+          <line>17</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/VScode_Python$Sqlite.coverage" NAME="Sqlite Coverage Results" MODIFIED="1607006306080" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/作业" />
+    <SUITE FILE_PATH="coverage/VScode_Python$test3.coverage" NAME="test3 Coverage Results" MODIFIED="1607064492173" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/作业" />
+    <SUITE FILE_PATH="coverage/VScode_Python$Test.coverage" NAME="Test Coverage Results" MODIFIED="1606743984439" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/作业" />
+    <SUITE FILE_PATH="coverage/VScode_Python$pyqt5.coverage" NAME="pyqt5 Coverage Results" MODIFIED="1606893118146" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/作业" />
+    <SUITE FILE_PATH="coverage/VScode_Python$6.coverage" NAME="6 Coverage Results" MODIFIED="1605713339028" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Test" />
+    <SUITE FILE_PATH="coverage/VScode_Python$__1_.coverage" NAME="豆瓣爬虫 (1) Coverage Results" MODIFIED="1606911730490" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/作业" />
+    <SUITE FILE_PATH="coverage/VScode_Python$test1.coverage" NAME="test1 Coverage Results" MODIFIED="1606727527829" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/作业" />
+    <SUITE FILE_PATH="coverage/VScode_Python$2.coverage" NAME="古诗文爬取2 Coverage Results" MODIFIED="1606825995164" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/作业" />
+    <SUITE FILE_PATH="coverage/VScode_Python$.coverage" NAME="亚马逊爬虫 Coverage Results" MODIFIED="1607007864015" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/作业" />
+    <SUITE FILE_PATH="coverage/VScode_Python$online_face_landmark_detecotr.coverage" NAME="online_face_landmark_detecotr Coverage Results" MODIFIED="1605715181974" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/人工智能/人脸识别" />
+    <SUITE FILE_PATH="coverage/VScode_Python$2020.coverage" NAME="中国大学排名2020 Coverage Results" MODIFIED="1607007805196" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/作业" />
+    <SUITE FILE_PATH="coverage/VScode_Python$360.coverage" NAME="360关键字提交 Coverage Results" MODIFIED="1606912527193" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/作业" />
+    <SUITE FILE_PATH="coverage/VScode_Python$4.coverage" NAME="4 Coverage Results" MODIFIED="1605713325957" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Test" />
+    <SUITE FILE_PATH="coverage/VScode_Python$tet.coverage" NAME="tet Coverage Results" MODIFIED="1606911371901" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/作业" />
   </component>
 </project>
