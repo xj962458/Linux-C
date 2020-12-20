@@ -1,20 +1,18 @@
-excludes = {"the", "and", "of", "you", "a", "i", "my", "in"}
-def getText():
-    txt = open("hamlet.txt", "r").read()
-    txt = txt.lower()
-    for ch in '!"#$%&()*+,-./:;<=>?@[\\]^_‘{|}~':
-        txt = txt.replace(ch, " ")  # 将文本中特殊字符替换为空格
-    return txt
+import numpy as np
+import matplotlib
+import matplotlib.pyplot as plt
 
-hamletTxt = getText()
-words = hamletTxt.split()
-counts = {}
-for word in words:
-    counts[word] = counts.get(word, 0) + 1
-for word in excludes:
-    del(counts[word])
-items = list(counts.items())
-items.sort(key=lambda x: x[1], reverse=True)
-for i in range(20):
-    word, count = items[i]
-    print("{0:<10}{1:>5}".format(word, count))
+x=np.linspace(-2,2)
+y1=2*np.power(x,2)
+y2=3*np.power(x,3)
+y3=4*np.power(x,4)
+matplotlib.rcParams['font.family'] = 'KaiTi'
+matplotlib.rcParams['font.sans-serif'] = ['KaiTi']
+plt.figure()
+plt.title('函数曲线')
+plt.xlabel('X轴')
+plt.ylabel('Y轴')
+plt.plot(x,y1,'r:')
+plt.plot(x,y2,'b-.')
+plt.plot(x,y3,'y--')
+plt.show()

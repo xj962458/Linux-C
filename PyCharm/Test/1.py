@@ -1,1 +1,1 @@
-a = '我爱你'b = "傅玉婷，\"我爱你\""c = '武新纪'print(a not in b)print(c+b)print(len(b))print(b)print(b)print(b[::-1])
+import jsonwith open('./test1.json', 'r+') as f:    a = json.load(f)    for i in a:        print(i)
