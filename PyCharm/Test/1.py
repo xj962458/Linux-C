@@ -1,1 +1,0 @@
-import jsonwith open('./test1.json', 'r+') as f:    a = json.load(f)    for i in a:        print(i)

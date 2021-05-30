@@ -1,2 +1,1 @@
-
-matplotlib.rcParams['font.sans-serif'] = ['SimHei']
+button.clicked.connect(handleCalc)
