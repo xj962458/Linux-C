@@ -25,7 +25,7 @@ SECRET_KEY = '*=tom11bq6c7usq5-%=sf%1hus(!#=b0=u23o%cgvohw#lwl19'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['xjfyt.top', '106.15.59.28', '127.0.0.1','*']
+ALLOWED_HOSTS = ['*']
 
 # Application definition
 

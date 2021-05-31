@@ -1,19 +1,19 @@
 {
     "local": {
-        "path": "/home/pi/Desktop/qt/image/",
+        "path": "your_local_path",
         "classroom": "5J492"
     },
     "server": {
-        "ip": "106.15.59.28",
+        "ip": "your_server_ip",
         "port": 22,
-        "user": "root",
-        "password": "w20010129F",
-        "image_path": "/home/admin/MySite/Recognition/static/media/images/"
+        "user": "your_server_user",
+        "password": "your_server_password",
+        "image_path": "your_image_path"
     },
     "database": {
-        "ip": "106.15.59.28",
-        "user": "root",
-        "password": "root",
-        "db": "recognition"
+        "ip": "your_database_ip",
+        "user": "your_database_user",
+        "password": "your_database_password",
+        "db": "your_databases_name"
     }
 }
